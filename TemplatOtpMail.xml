@@ -58,12 +58,12 @@
                 <p>We're thrilled to have you on board! Your one-time passcode (OTP) is:</p>
                 <h2 style="color: #008CBA;">{otp}</h2>
                 <p>Please use this OTP to complete your signup process.</p>
-                <a class="button" href="https://example.com">Visit Our Website</a>
+                <a class="button" href="https://t.me/aeshaStoreBot">Visit AeshaStoreBot</a>
                 
                 <div class="footer">
                     <p>Follow us on social media:</p>
                     <div class="social-icons">
-                        <a href="https://t.me/yourusername" target="_blank">
+                        <a href="https://t.me/aeshaStoreBot" target="_blank">
                             <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram">
                         </a>
                         <a href="https://instagram.com/yourusername" target="_blank">
