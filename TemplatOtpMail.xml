@@ -58,7 +58,7 @@
                 <p>We're thrilled to have you on board! Your one-time passcode (OTP) is:</p>
                 <h2 style="color: #008CBA;">{otp}</h2>
                 <p>Please use this OTP to complete your signup process.</p>
-                <a class="button" href="https://t.me/AeshaStoreBot">Visit AeshaStoreBot</a>
+                <a class="button" href="https://example.com">Visit Our Website</a>
                 
                 <div class="footer">
                     <p>Follow us on social media:</p>
