@@ -54,7 +54,10 @@
         </head>
         <body>
             <div class="container">
-                <h1>Welcome, {name}!</h1>
+                <p>
+                <img src="https://telegra.ph/file/104699dd605c85ee51dad.png" alt="AeshaStoreBot-Logo"/>
+                </p>
+                <h2>Welcome to <a href=https://t.me/AeshaStoreBot>AeshaStoreBot</a></h2>
                 <p>We're thrilled to have you on board! Your one-time passcode (OTP) is:</p>
                 <h2 style="color: #008CBA;">{otp}</h2>
                 <p>Please, use the following code to confirm your e-mail.</p>
@@ -65,9 +68,6 @@
                     <div class="social-icons">
                         <a href="https://t.me/aeshaStoreBot" target="_blank">
                             <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram">
-                        </a>
-                        <a href="https://instagram.com/yourusername" target="_blank">
-                            <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram">
                         </a>
                         <a href="https://github.com/yourusername" target="_blank">
                             <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub">   
