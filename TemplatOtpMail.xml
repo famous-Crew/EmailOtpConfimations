@@ -59,6 +59,7 @@
                 <p>We're thrilled to have you on board! Your one-time passcode (OTP) is:</p>
                 <h2 style="color: #008CBA;">{otp}</h2>
                 <p>Please, use the following code to confirm your e-mail.</p>
+                <p>
                 <img src="https://telegra.ph/file/104699dd605c85ee51dad.png" width="150" height="150" alt="AeshaStoreBot-Logo"/>
                 </p>
 
