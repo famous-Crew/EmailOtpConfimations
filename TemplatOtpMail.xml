@@ -54,23 +54,17 @@
         </head>
         <body>
             <div class="container">
-                <h1>Welcome, {name}!</h1>
+                <h1>Welcome to <a href=https://t.me/AeshaStoreBot>AeshaStoreBot</a></h1>"
                 <p>We're thrilled to have you on board! Your one-time passcode (OTP) is:</p>
                 <h2 style="color: #008CBA;">{otp}</h2>
-                <p>Please use this OTP to complete your signup process.</p>
+                <p>Please, use the following code to confirm your e-mail</p>
                 <a class="button" href="https://example.com">Visit Our Website</a>
                 
                 <div class="footer">
-                    <p>Follow us on social media:</p>
+                    <p>Contact developer if you have any issue:</p>
                     <div class="social-icons">
-                        <a href="https://t.me/yourusername" target="_blank">
+                        <a href="https://t.me/g_zha" target="_blank">
                             <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram">
-                        </a>
-                        <a href="https://instagram.com/yourusername" target="_blank">
-                            <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram">
-                        </a>
-                        <a href="https://github.com/yourusername" target="_blank">
-                            <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub">
                         </a>
                     </div>
                 </div>
