@@ -54,11 +54,11 @@
         </head>
         <body>
             <div class="container">
-                <h1>Welcome to <a href=https://t.me/AeshaStoreBot>AeshaStoreBot</a></h1>"
+                <h1>Welcome to Aesha Store Bot</h1>
                 <p>We're thrilled to have you on board! Your one-time passcode (OTP) is:</p>
                 <h2 style="color: #008CBA;">{otp}</h2>
                 <p>Please, use the following code to confirm your e-mail</p>
-                <a class="button" href="https://example.com">Visit Our Website</a>
+                <a class="button" href="https://t.me/AeshaStoreBot">Visit Our Bot</a>
                 
                 <div class="footer">
                     <p>Contact developer if you have any issue:</p>
